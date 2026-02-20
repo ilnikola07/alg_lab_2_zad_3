@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_alg_lab_2_zad_3", "WinFormsApp_alg_lab_2_zad_3.csproj", "{879322A0-B2D2-40D3-878F-E686423611E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_alg_lab_2_zad_3", "..\Test_alg_lab_2_zad_3\Test_alg_lab_2_zad_3.csproj", "{22A1CACF-C95F-40DA-80A6-7B92AA384444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879322A0-B2D2-40D3-878F-E686423611E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879322A0-B2D2-40D3-878F-E686423611E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879322A0-B2D2-40D3-878F-E686423611E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879322A0-B2D2-40D3-878F-E686423611E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A1CACF-C95F-40DA-80A6-7B92AA384444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A1CACF-C95F-40DA-80A6-7B92AA384444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A1CACF-C95F-40DA-80A6-7B92AA384444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A1CACF-C95F-40DA-80A6-7B92AA384444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47046E4B-FF0F-4C01-9B40-4BD7DD9E416B}
+	EndGlobalSection
+EndGlobal
