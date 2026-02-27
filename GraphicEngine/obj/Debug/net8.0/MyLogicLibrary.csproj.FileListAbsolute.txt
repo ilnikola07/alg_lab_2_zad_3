@@ -1,0 +1,12 @@
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.AssemblyInfoInputs.cache
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.AssemblyInfo.cs
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\bin\Debug\net8.0\MyLogicLibrary.deps.json
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\bin\Debug\net8.0\MyLogicLibrary.dll
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\bin\Debug\net8.0\MyLogicLibrary.pdb
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.dll
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\refint\MyLogicLibrary.dll
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\MyLogicLibrary.pdb
+C:\Users\111\Desktop\1 курс\2 семак\алгоритмизация и программирование\lab_2\WinFormsApp_alg_lab_2_zad_3\GraphicEngine\obj\Debug\net8.0\ref\MyLogicLibrary.dll

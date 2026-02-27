@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ErJbzLPMxoQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\111\\Desktop\\1 курс\\2 семак\\алгоритмизация и программирование\\lab_2\\WinFormsApp_alg_lab_2_zad_3\\GraphicEngine\\MyLogicLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\111\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.3\\microsoft.win32.systemevents.10.0.3.nupkg.sha512",
+    "C:\\Users\\111\\.nuget\\packages\\system.drawing.common\\10.0.3\\system.drawing.common.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
